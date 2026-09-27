@@ -1,0 +1,17 @@
+{
+  "name": "5 o'clock somewhere",
+  "short_name": "5 o'clock",
+  "description": "See which country is raising a glass right now, and what they're drinking.",
+  "start_url": "./five-pm-somewhere.html",
+  "id": "./five-pm-somewhere.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fcfaf6",
+  "theme_color": "#fcfaf6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
